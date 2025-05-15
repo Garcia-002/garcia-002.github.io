@@ -1,2 +1,2 @@
 # Project 1: Adventure Game
-/images/Adventure Game Screenshot.png
+/Images/Adventure Game Screenshot.png
