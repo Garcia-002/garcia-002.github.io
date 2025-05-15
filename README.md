@@ -1,5 +1,5 @@
 # Assignment 1: Adopt-A-Fish
-<https://github.com/Garcia-002/garcia-002.github.io/blob/main/Images/Adopt-A-Fish-Screenshot.png?raw=true>
+[Image](https://github.com/Garcia-002/garcia-002.github.io/blob/main/Images/Adopt-A-Fish-Screenshot.png?raw=true)
 Description
 
 # Assignment 2: Design with Alphanumeric Characters and Loops
