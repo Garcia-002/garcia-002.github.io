@@ -7,7 +7,7 @@ An application that lets a player [adopt a fish](https://gist.github.com/Garcia-
 A [Design with Alphanumeric Characters and Loops](https://gist.github.com/Garcia-002/780d96dd95a5b52c3ecd515dbedf510f) that demonstrates the ability to create shapes with characters using loops.
 
 # Assignment 3: Cumulative Verse Song
-![Cumulative Verse Song Output](https://github.com/user-attachments/assets/443e8ea0-3f32-48c3-82e3-1a28c7895c03)
+![Cumulative Verse Song Output](https://github.com/user-attachments/assets/689bd4f9-ad27-496b-b3ec-3bb7a4672175)
 [Cumulative Verse Song](https://gist.github.com/Garcia-002/7e3474306fd897b43b2975cf81d38b2f) that outputs the lyrics to 12 Days of Christmas using loops and conditional statements.
 
 # Project 1: Adventure Game
